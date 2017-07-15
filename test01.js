@@ -1,4 +1,3 @@
-var assert = require('chai').assert;
 var expect = require('chai').expect;
 var expected, current;
 before(function(){
