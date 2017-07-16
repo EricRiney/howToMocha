@@ -1,5 +1,6 @@
 var assert = require('chai').assert;
-var expected, current;
+var expected;
+var current;
 before(function(){
   expected = ['a', 'b', 'c'];
 })
