@@ -1,0 +1,23 @@
+{
+  "name": "mochahowto",
+  "version": "1.0.0",
+  "description": "TDD here we go",
+  "main": "test01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricRiney/howToMocha.git"
+  },
+  "author": "riney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricRiney/howToMocha/issues"
+  },
+  "homepage": "https://github.com/EricRiney/howToMocha#readme",
+  "dependencies": {
+    "chai": "^1.8.1",
+    "expect.js": "^0.2.0"
+  }
+}
